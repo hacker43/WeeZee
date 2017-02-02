@@ -1,0 +1,2 @@
+# WeeZee
+Our first project
